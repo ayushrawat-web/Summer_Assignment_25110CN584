@@ -12,8 +12,9 @@ int main(int argc, char const *argv[])
         for(i=1;i<=r;i++)
         {
             fact=fact*i;
-            sum=sum+fact;
         }
+    sum=sum+fact;
+    n=n/10;    
 
     }
     if(temp==sum)
