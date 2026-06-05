@@ -1,3 +1,4 @@
+//strong no means sum of factorial of digit of a number is equal to digit
 #include<stdio.h>
 int main(int argc, char const *argv[])
 {

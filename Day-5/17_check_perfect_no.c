@@ -1,3 +1,4 @@
+//perfect no menas sum of all factors of a no is equal to the no
 #include<stdio.h>
 int main(int argc, char const *argv[])
 {
