@@ -17,7 +17,7 @@ int main()
         {
             if(a[i]==a[j])
             {
-                printf("duplicate element is %d\n",a[j]);
+                printf("duplicate element is %d\n",a[i]);
                 break;
             }
             
